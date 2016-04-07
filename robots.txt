@@ -1,0 +1,12 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fancybox/
+Disallow: /tags/
+
+Sitemap: http://jasonwong1991.github.io/sitemap.xml
+Sitemap: http://jasonwong1991.github.io/baidusitemap.xml
